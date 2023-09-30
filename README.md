@@ -16,7 +16,7 @@ The choice of currency (fiat) and payment methods (banks) in the bot is dynamic 
 After launching the task (order) you created, the bot will monitor prices on the Huobi P2P exchange, and as soon as the price appears below the one set in the task you created, the bot will open a deal and notify you in a telegram
 
 #### Installing
-#####Instructions for installing and configuring the Huobi P2P bot
+##### Instructions for installing and configuring the Huobi P2P bot
 To manage the Huobi P2P bot software, you need to create and connect a telegram bot
 #### 1. Registering a new Telegram bot
 Detailed instructions for registering a new telegram bot: https://py-dev.top/en/registering-telegram-bot
