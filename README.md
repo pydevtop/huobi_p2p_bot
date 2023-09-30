@@ -41,7 +41,7 @@ In the folder of drive C: unpack the archive HuobiP2PBot.zip
 Go to the HuobiP2PBot folder and click on the start.bat file to start the bot
 
 
-####Connecting to Huobi
+#### Connecting to Huobi
 
 After starting the bot, a menu for creating orders will appear, and the bot will also launch the Google Chrome web browser (the Google Chrome web browser must be installed) to pass authorization on Huobi
 
