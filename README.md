@@ -4,7 +4,7 @@ Automatic purchase of orders on Huobi P2P
 Bot is written in the Python programming language for the Huobi cryptocurrency exchange
 
 Bot  automatically buy USDT and other coins on the Binance exchange in the order faster than others through p2p
-<p align="center"><img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/full_thumb_ex650_bot_huobi.jpg"></p>
+<p align="center"><img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/thumb_thumb_full_thumb_ex650_bot_huobi.png"></p>
 
 ## Advantages of the HuobiP2PBot bot in trading on the Huobi cryptocurrency exchange?
 Huobi P2P exchange does not support API and we have created our own API Python SDK - which helps to redeem orders very quickly on Huobi cryptocurrency exchange
